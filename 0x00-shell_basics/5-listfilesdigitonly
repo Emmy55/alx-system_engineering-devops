@@ -1,0 +1,5 @@
+i
+#!/bin/bash
+ls -lnai
+#!/bin/bash
+ls -lna
